@@ -1,7 +1,7 @@
 #!/bin/bash
 #
-# Script to setup a bosh ambient, before any deployment.
-# Works on CentOS and Fedora
+# Script to setup a bosh environment, before any deployment.
+# Works with CentOS
 #
 # Autor: Andres Lucas Garcia Fiorini
 # Date:  01/02/2017
